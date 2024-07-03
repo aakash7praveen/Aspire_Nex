@@ -21,6 +21,6 @@ The chatbot is developed based on basic if-else conditions and is very user frie
 
 The website is also functional (payment functionality not added).
 
-To access the website please select index2.html from the CHATBOT WITH RULE-BASED RESPONSES folder.
+To access the website please select index2.html from the Chat-Bot Resources folder.
 
-The video demo of the working of the chatbot has been provided in the CHATBOT WITH RULE-BASED RESPONSES folder.
+The video demo of the working of the chatbot has been provided in the repository.
